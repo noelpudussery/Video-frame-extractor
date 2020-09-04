@@ -2,4 +2,6 @@
 
 Program to extract frames from a given video or from live feed.
 
-Code contributed by Noel Pudussery.
+
+
+<i>Code contributed by Noel Pudussery.</i>
